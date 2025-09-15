@@ -6,5 +6,9 @@
   "rewrite": {
     "provider": "ApiAirforce",
     "model": "gemini-pro-2.5"
+  },
+  "other":{
+    "provider": "ApiAirforce",
+    "model": "gemini-pro-2.5"    
   }
 }
