@@ -1,0 +1,10 @@
+{
+  "sticker": {
+    "provider": "PollinationsAI",
+    "model": "gpt-4o-mini"
+  },
+  "rewrite": {
+    "provider": "ApiAirforce",
+    "model": "gemini-pro-2.5"
+  }
+}
